@@ -1,0 +1,8 @@
+Indicator,Mul.slope,s.d.,Trend,Change,Change/yr,p-value,N species,Pre-2009 slope,s.d.,Trend pre-2009,Post-2008 slope,s.d.,Trend post-2008
+Endemic species,0.976,0.001,Moderate decline,-33.67%,-2.40%,p<0.01,10,0.967,0.003,Moderate decline,0.985,0.004,Moderate decline
+Habitat generalists,1.033,0.002,Moderate increase,8.77%,3.30%,p<0.05,13,1.054,0.005,Moderate increase,0.974,0.005,Moderate decline
+All species,0.998,0.001,Moderate decline,-11.79%,-0.20%,p<0.01,42,1.003,0.002,Stable,0.982,0.002,Moderate decline
+Lowland species,1.03,0.002,Moderate increase,72.29%,3.00%,p<0.01,6,1.074,0.005,Strong increase,1.008,0.005,Stable
+Midland species,0.986,0.001,Moderate decline,-20.88%,-1.40%,p<0.01,16,0.992,0.003,Moderate decline,0.98,0.003,Moderate decline
+Upland species,0.971,0.001,Moderate decline,-44.35%,-2.90%,p<0.01,13,0.952,0.003,Moderate decline,0.972,0.003,Moderate decline
+Rainforest specialists,0.983,0.001,Moderate decline,-19.69%,-1.70%,p<0.01,29,0.981,0.002,Moderate decline,0.986,0.002,Moderate decline

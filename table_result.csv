@@ -1,0 +1,43 @@
+Scient.name,Com.name,Family,Elevation.special,Rainforest.special,Endemic,Mul.slope,s.d.,p-value,Trend,Pre-2009 slope,s.d.,Trend pre-2009,Post-2008 slope,s.d.,Trend post-2008
+Sericornis keri ,Atherton Scrubwren,Acanthizidae,Upland,Yes,Yes,0.95,0.006,3.94E-07,Moderate decline,0.935,0.013,Moderate decline,0.942,0.016,Moderate decline
+Monarcha melanopsis ,Black-faced Monarch,Monarchidae,Midland,Yes,No,0.953,0.004,4.35E-09,Moderate decline,0.906,0.008,Steep decline,1.055,0.014,Moderate increase
+Colluricincla boweri ,Bower's Shrike-Thrush,Pachycephalidae,Upland,Yes,Yes,0.95,0.002,5.97E-13,Moderate decline,0.926,0.005,Steep decline,0.964,0.006,Moderate decline
+Bolemoreus frenatus,Bridled Honeyeater,Meliphagidae,Upland,Yes,Yes,0.979,0.002,1.23E-07,Moderate decline,0.921,0.004,Steep decline,1.028,0.006,Moderate increase
+Macropygia phasianella,Brown Cuckoo-Dove,Columbidae,Midland,Yes,No,0.986,0.002,1.50E-05,Moderate decline,0.938,0.005,Steep decline,0.992,0.005,Stable
+Gerygone mouki,Brown Gerygone,Acanthizidae,Midland,Yes,No,0.972,0.002,4.47E-11,Moderate decline,1.044,0.004,Moderate increase,0.94,0.004,Steep decline
+Orthonyx spaldingii ,Chowchilla,Orthonychidae,Midland,Yes,Yes,1.016,0.002,7.90E-07,Moderate increase,1.046,0.005,Moderate increase,1.012,0.005,Moderate increase
+Psophodes olivaceus ,Eastern Whipbird,Psophodidae,Midland,Yes,No,1.002,0.002,2.14E-01,Stable,1.029,0.005,Moderate increase,0.979,0.002,Moderate decline
+Cacomantis flabelliformis,Fan-tailed Cuckoo,Cuculidae,Midland,Yes,No,1.092,0.017,4.00E-05,Strong increase,1.259,0.05,Strong increase,0.905,0.019,Moderate decline
+Oreoscopus gutturalis ,Fernwren,Acanthizidae,Upland,Yes,Yes,1.025,0.003,5.20E-08,Moderate increase,1.097,0.007,Strong increase,1.001,0.006,Stable
+Amblyornis newtoniana,Golden Bowerbird,Ptilonothynchidae,Upland,Yes,Yes,0.96,0.009,3.87E-04,Moderate decline,0.91,0.016,Steep decline,0.878,0.022,Steep decline
+Pachycephala pectoralis,Golden Whistler,Pachycephalidae,Midland,Yes,No,0.99,0.002,1.76E-04,Moderate decline,0.981,0.005,Moderate decline,0.967,0.005,Moderate decline
+Meliphaga gracilis ,Graceful Honeyeater,Meliphagidae,Lowland,Yes,No,1.031,0.004,2.13E-07,Moderate increase,1.151,0.011,Strong increase,0.961,0.005,Moderate decline
+Rhipidura albiscapa ,Grey Fantail,Rhipiduridae,Generalist,No,No,1.012,0.002,2.02E-05,Moderate increase,1.041,0.005,Moderate increase,0.976,0.005,Moderate decline
+Heteromyias cinereifrons,Grey-headed Robin,Petroicidae,Upland,Yes,No,0.984,0.002,3.02E-08,Moderate decline,0.998,0.004,Stable,0.982,0.004,Moderate decline
+Sericornis magnirostra ,Large-billed Scrubwren,Acanthizidae,Midland,Yes,No,0.951,0.002,3.47E-14,Moderate decline,0.938,0.004,Steep decline,0.973,0.005,Moderate decline
+Meliphaga lewinii ,Lewin's Honeyeater,Meliphagidae,Midland,Yes,No,1.018,0.002,1.02E-07,Moderate increase,1,0.005,Stable,1.023,0.005,Moderate increase
+Colluricincla megarhyncha ,Little Shrike Thrush,Pachycephalidae,Lowland,Yes,No,1.073,0.004,4.42E-12,Strong increase,1.145,0.012,Strong increase,1,0.004,Stable
+Xanthotis macleayanus ,Macleay's Honeyeater,Meliphagidae,Lowland,Yes,Yes,1.003,0.003,3.97E-01,Stable,1.007,0.008,Stable,1.063,0.007,Moderate increase
+Dicaeum hirundinaceum ,Mistletoebird,Dicaeidae,Generalist,No,No,1.027,0.004,6.52E-06,Moderate increase,1.106,0.011,Strong increase,0.891,0.007,Steep decline
+Acanthiza katherina ,Mountain Thornbill,Acanthizidae,Upland,Yes,Yes,1.007,0.002,4.87E-03,Moderate increase,1.021,0.005,Moderate increase,0.974,0.005,Moderate decline
+Megapodius reinwardt ,Orange-footed Scrubfowl,Megapodiidae,Midland,Yes,No,0.94,0.005,5.06E-09,Steep decline,0.933,0.01,Moderate decline,1.01,0.01,Stable
+Tregellasia capito ,Pale-yellow Robin,Petroicidae,Midland,Yes,No,1.005,0.005,3.06E-01,Stable,1.099,0.01,Strong increase,1.007,0.009,Stable
+Strepera graculina ,Pied Currawong,Artamidae,Upland,Yes,No,1.004,0.003,1.77E-01,Stable,0.971,0.008,Moderate decline,1.008,0.008,Stable
+Trichoglossus moluccanus ,Rainbow Lorikeet,Psittacidae,Generalist,No,No,1.129,0.004,5.03E-16,Strong increase,1.138,0.011,Strong increase,1.088,0.006,Strong increase
+Rhipidura rufifrons,Rufous Fantail,Rhipiduridae,Upland,Yes,No,0.909,0.006,1.63E-10,Steep decline,0.875,0.01,Steep decline,0.964,0.018,Uncertain
+Ptilonorhynchus violaceus ,Satin Bowerbird,Ptilonothynchidae,Upland,Yes,No,0.938,0.009,9.05E-06,Moderate decline,0.845,0.016,Steep decline,0.846,0.019,Steep decline
+Trichoglossus chlorolepidotus ,Scaly-breasted Lorikeet,Psittacidae,Generalist,No,No,1.085,0.008,7.93E-09,Strong increase,1.14,0.016,Strong increase,0.939,0.008,Moderate decline
+Chrysococcyx lucidus ,Shining Bronze-Cuckoo,Cuculidae,Midland,Yes,No,1.054,0.064,4.01E-01,Uncertain,1.01,0.09,Uncertain,0.923,0.02,Moderate decline
+Dicrurus bracteatus ,Spangled Drongo,Dicruridae,Generalist,No,No,0.973,0.037,4.88E-01,Uncertain,0.773,0.175,Uncertain,0.964,0.056,Uncertain
+Symposiachrus trivirgatus ,Spectacled Monarch,Monarchidae,Lowland,Yes,No,0.988,0.002,1.33E-04,Moderate decline,0.995,0.006,Stable,0.996,0.006,Stable
+Ailuroedus maculosus,Spotted Catbird,Ptilonothynchidae,Midland,Yes,No,0.985,0.002,6.54E-07,Moderate decline,0.907,0.004,Steep decline,1.065,0.005,Strong increase
+Cacatua galerita ,Sulphur-crested Cockatoo,Cacatuidae,Generalist,No,No,1.028,0.002,4.53E-09,Moderate increase,1.024,0.006,Moderate increase,1.027,0.005,Moderate increase
+Ptilinopus suberbus ,Superb Fruit-Dove,Columbidae,Midland,Yes,No,0.967,0.004,1.03E-06,Moderate decline,0.885,0.006,Steep decline,1.031,0.011,Moderate increase
+Scenopoeetes dentirostris ,Tooth-billed Bowerbird,Ptilonothynchidae,Upland,Yes,Yes,0.871,0.007,5.54E-11,Steep decline,0.842,0.008,Steep decline,0.947,0.02,Moderate decline
+Lalage leucomela ,Varied Triller,Campephagidae,Generalist,No,No,1.054,0.008,2.37E-06,Moderate increase,1.019,0.018,Uncertain,1.035,0.015,Moderate increase
+Ptiloris victoriae ,Victoria's Riflebird,Paradisaeidae,Midland,Yes,Yes,0.973,0.002,1.11E-08,Moderate decline,0.99,0.006,Stable,0.98,0.006,Moderate decline
+Cormobates leucophaea ,White-throated Treecreeper,Climacteridae,Upland,Yes,No,1,0.002,9.56E-01,Stable,1.004,0.005,Stable,1.012,0.005,Moderate increase
+Ptolinopus magnificus ,Wompoo Fruit-Dove,Columbidae,Midland,Yes,No,0.948,0.003,2.68E-11,Moderate decline,0.953,0.006,Moderate decline,0.931,0.0077,Steep decline
+Machaerirhynchus flaviventer ,Yellow-breasted Boatbill,Machaerirhynchidae,Lowland,Yes,No,1.022,0.003,1.44E-05,Moderate increase,1.033,0.01,Moderate increase,1.043,0.009,Moderate increase
+Meliphaga notata ,Yellow-spotted Honeyeater,Meliphagidae,Lowland,Yes,No,1.073,0.006,9.72E-10,Strong increase,1.154,0.017,Strong increase,0.984,0.005,Moderate decline
+Sericornis citrogularis ,Yellow-thoated Scrubwren,Acanthizidae,Upland,Yes,No,1.007,0.002,1.35E-02,Moderate increase,1.046,0.006,Moderate increase,0.998,0.006,Stable

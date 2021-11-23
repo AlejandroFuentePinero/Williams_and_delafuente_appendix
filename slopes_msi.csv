@@ -1,0 +1,8 @@
+Elevation,Group,Multiplicative slope,SE of slope,Change,SE of change,Trend,Pre-2009 slope,SD,Trend pre-2009,Post-2008 slope,SD,Trend post-2008
+Lowlands,Lowland species,100.85,0.19,17.34%,4.60%,Moderate increase,1.023,0.004,Moderate increase,0.996,0.006,Stable
+Midlands,Lowland species,106.53,0.36,190.55%,19.94%,Strong increase,1.146,0.009,Strong increase,1.026,0.011,Moderate increase
+Lowlands,Midland species,96.21,0.25,-42.49%,3.22%,Moderate decline,1.05,0.006,Moderate increase,0.894,0.007,Steep decline
+Midlands,Midland species,99.44,0.17,-21.60%,2.88%,Moderate decline,0.99,0.004,Moderate decline,0.991,0.005,Stable
+Uplands,Midland species,100.57,0.33,-2.97%,6.87%,Stable,0.959,0.007,Moderate decline,1.02,0.01,Stable
+Midlands,Upland species,96.47,0.21,-48.63%,2.23%,Moderate decline,0.989,0.005,Stable,0.945,0.006,Moderate decline
+Uplands,Upland species,98.17,0.18,-33.19%,2.77%,Moderate decline,0.952,0.004,Moderate decline,0.984,0.006,Moderate decline
